@@ -1,4 +1,4 @@
-public class reverse {
+class f4{
     public static void main(String args[]) {
         String str = "Hello World";
         String rev = "";
@@ -6,4 +6,4 @@ public class reverse {
             rev += str.charAt(i);
         }
         System.out.println("Reverse of the string is: " + rev);
-    }
+}
